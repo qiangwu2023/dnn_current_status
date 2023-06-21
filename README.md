@@ -1,5 +1,5 @@
 # dnn_current_status
-This is the implementation of **Deep Partially Linear Cox Model for Current Status Data** using **PyTorch**. In the simulations, we consider four cases about $g_0(X)$. The four folders(**Model_Linear, Model_Additive, Model_Deep1, Model_Deep2**) present the code for the corresponding cases. The folder **Application** shows the results for the real data.
+This is the implementation of **Deep Partially Linear Cox Model for Current Status Data** using **PyTorch**. In the simulations, we consider four cases about $g_0(X)$. The four folders(**Model_Linear, Model_Additive, Model_Deep1, Model_Deep2**) present the code for the corresponding cases. The folder **Application** shows the results for the real data, which can be publicly available at https://archive.ics.uci.edu/ml/datasets/Online+News+Popularity.
 
 ## Reference to download and install (Python 3.10.8)
 + I suggest you install ***Miniforge3*** and ***Visual Studio Code*** in your system.
